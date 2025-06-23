@@ -40,6 +40,3 @@ Automação com Cypress + TypeScript: arquitetura reutilizável, comandos custom
 - **Certificações:** Scrum Foundations Professional Certificate (SFPC) · Cypress Avançado · Appium · k6  
 - **Em andamento:** CTFL (ISTQB) · Pytest · Playwright
 
----
-
-> _Qualidade não é um ato, é um hábito._ – Aristóteles

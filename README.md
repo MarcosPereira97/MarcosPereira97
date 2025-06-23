@@ -1,5 +1,3 @@
-# Marcos Henrique Pereira Júnior
-
 **QA Engineer** | Automação Web & Mobile | Cypress, Selenium, Appium, TypeScript  
 📍 Sorocaba – SP · 📧 marcos_henriquejunior@hotmail.com · [LinkedIn](https://www.linkedin.com/in/marcos-pereira07)
 

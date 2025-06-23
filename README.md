@@ -1,80 +1,47 @@
 # Marcos Henrique Pereira Júnior
 
-**QA Engineer | Automação Web & Mobile | Cypress, Selenium, Appium, TypeScript, APIs**  
-**Sorocaba - SP, Brasil**  
-[LinkedIn](https://www.linkedin.com/in/marcos-pereira07) | marcos_henriquejunior@hotmail.com
+**QA Engineer** | Automação Web & Mobile | Cypress, Selenium, Appium, TypeScript  
+📍 Sorocaba – SP · 📧 marcos_henriquejunior@hotmail.com · [LinkedIn](https://www.linkedin.com/in/marcos-pereira07)
 
 ---
 
-## Sobre mim
+### Sobre
 
-Profissional de QA com mais de **7 anos de experiência** em testes funcionais e não funcionais.  
-Especialista em automação de testes para aplicações web e mobile, com foco em qualidade contínua, performance e entrega eficiente.  
-Atuação em projetos nos setores **financeiro**, **e-commerce**, **automotivo** e **consultoria**, com forte presença em times ágeis (Scrum e Kanban).
-
----
-
-## Stack de Tecnologias
-
-- **Automação Web:** Cypress, Selenium, Playwright, Robot Framework
-- **Automação Mobile:** Appium (Android/iOS)
-- **Frameworks e Suporte:** BDD com Gherkin, Cucumber
-- **Testes de API:** REST, GraphQL, Postman, Swagger
-- **CI/CD:** Azure DevOps, Jenkins
-- **Bancos de dados:** SQL, MongoDB
-- **Observabilidade:** ElasticSearch, Kibana
-- **Mensageria:** RabbitMQ, Kafka
+Engenheiro de Qualidade com mais de **7 anos de experiência** em testes funcionais e não funcionais.  
+Especializado em automação de testes **web (Cypress, Selenium, Playwright)** e **mobile (Appium)**.  
+Atuação sólida em APIs (REST/GraphQL), CI/CD (Azure DevOps, Jenkins) e testes exploratórios em ambientes ágeis.
 
 ---
 
-## Repositórios em destaque
+### Tecnologias
 
-### [qa.green-web-test.cypress](https://github.com/MarcosPereira97/qa.green-web-test.cypress)  
-Automação de testes web com Cypress e TypeScript, incluindo cobertura E2E, boas práticas e arquitetura reutilizável. Projeto mais recente e completo.
-
-- Framework com arquitetura modular
-- Boas práticas com comandos customizados
-- Relatórios com Allure
-
----
-
-| Repositório | Descrição |
-|-------------|-----------|
-| [qa.webmotors-web-test.selenium](https://github.com/MarcosPereira97/qa.webmotors-web-test.selenium) | Automação com Selenium para desafio da Webmotors |
-| [qa.neon-mobile-test.appium](https://github.com/MarcosPereira97/qa.neon-mobile-test.appium) | Automação mobile com Appium para desafio da Neon |
-| [qa.coodesh-web-test.cypress](https://github.com/MarcosPereira97/qa.coodesh-web-test.cypress) | Automação web com Cypress e práticas modernas |
+- **Web:** Cypress · Selenium · Playwright · Robot Framework  
+- **Mobile:** Appium (Android/iOS)  
+- **APIs:** Postman · Swagger · REST · GraphQL  
+- **CI/CD:** Azure DevOps · Jenkins  
+- **Bancos:** SQL · MongoDB  
+- **Logs:** Kibana · ElasticSearch  
+- **Outros:** BDD · RabbitMQ · Kafka
 
 ---
 
-## Experiência profissional
+### Destaques
 
-- **Instituto Atlântico** – Automação com Cypress + TypeScript, testes GraphQL e POC com Robot Framework  
-- **Banco Neon** – Framework mobile com Appium, testes manuais e de API REST  
-- **FCamara** – Testes E2E para e-commerce, fluxos complexos e sugestões de melhoria de processos  
-- **Webmotors** – Testes de APIs com Rspec e validações automatizadas no Postman  
-- **Webjump** – Implementação de framework com Selenium + Gherkin para grandes marcas  
-- **QARTI** – Testes funcionais e mobile com integração a banco de dados
+#### [qa.green-web-test.cypress](https://github.com/MarcosPereira97/qa.green-web-test.cypress)  
+Automação com Cypress + TypeScript: arquitetura reutilizável, comandos customizados e Allure Reports.
 
----
-
-## Certificações
-
-- Scrum Foundations Professional Certificate (SFPC)
-- Testes Automatizados com Cypress
-- Introdução ao Appium com Ruby e Cucumber
-- Testes de Performance com k6
+**Outros repositórios relevantes:**
+- [qa.webmotors-web-test.selenium](https://github.com/MarcosPereira97/qa.webmotors-web-test.selenium)  
+- [qa.neon-mobile-test.appium](https://github.com/MarcosPereira97/qa.neon-mobile-test.appium)  
+- [qa.coodesh-web-test.cypress](https://github.com/MarcosPereira97/qa.coodesh-web-test.cypress)  
 
 ---
 
-## Estudos Atuais
+### Certificações & Estudos
 
-- **Pytest** – Estruturação de testes Python
-- **Playwright** – Alternativa moderna para automação de UI
-- **CTFL (ISTQB)** – Certificação internacional em fundamentos de testes
+- **Certificações:** Scrum Foundations Professional Certificate (SFPC) · Cypress Avançado · Appium · k6  
+- **Em andamento:** CTFL (ISTQB) · Pytest · Playwright
 
 ---
 
-## Contato
-
-- **Email:** marcos_henriquejunior@hotmail.com  
-- **LinkedIn:** [linkedin.com/in/marcos-pereira07](https://www.linkedin.com/in/marcos-pereira07)
+> _Qualidade não é um ato, é um hábito._ – Aristóteles

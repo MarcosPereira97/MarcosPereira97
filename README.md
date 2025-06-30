@@ -25,7 +25,7 @@ Atuação sólida em APIs (REST/GraphQL), CI/CD (Azure DevOps, Jenkins) e testes
 
 ### Destaques
 
-#### [qa.green-web-test.cypress](https://github.com/MarcosPereira97/qa.green-web-test.cypress)  
+#### [qa.greenn-web-test.cypress](https://github.com/MarcosPereira97/qa.greenn-web-test.cypress)
 Automação com Cypress + TypeScript: arquitetura reutilizável, comandos customizados e Allure Reports.
 
 **Outros repositórios relevantes:**

@@ -5,6 +5,9 @@ Marcos Henrique Pereira Junior
 
 Sorocaba – SP · [marcos_henriquejunior@hotmail.com](mailto:marcos_henriquejunior@hotmail.com) · [LinkedIn](https://www.linkedin.com/in/marcoshenrique-pereira/)
 
+
+📌 **[Portfólio de QA/SDET completo →](https://github.com/MarcosPereira97/qa-portfolio-marcos)** estratégia de testes, casos de teste, exploratory charters e bugs de exemplo.
+
 ---
 
 ### Sobre mim
@@ -55,7 +58,7 @@ Penso automação como parte da arquitetura do produto: estratégia de testes, p
 
 ### Portfólio QA
 
-> Índice completo de estratégia, casos de teste e artefatos: veja **[qa-portfolio-marcos](https://github.com/MarcosPereira97/qa-portfolio-marcos)** *(em construção — Fase 3)*.
+> Índice completo de estratégia, casos de teste e artefatos de QA: veja **[qa-portfolio-marcos](https://github.com/MarcosPereira97/qa-portfolio-marcos)** — estratégia de testes, casos de teste, exploratory charters e bug reports.
 
 | Projeto | Stack | O que demonstra |
 |---|---|---|
